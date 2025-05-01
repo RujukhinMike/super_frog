@@ -1,0 +1,21 @@
+*.swp
+
+# Игнорируем виртуальное окружение
+venv/
+.env
+
+# Игнорируем IDE-файлы
+.vscode/
+.idea/
+
+# Игнорируем бинарные файлы
+*.exe
+*.dll
+*.so
+*.bin
+
+# Игнорируем зависимости (если используете package managers)
+node_modules/
+*.egg-info/
+dist/
+build/
