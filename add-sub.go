@@ -7,4 +7,3 @@ func add(a, b int) int {
 func sub(a, b int) int {
 	return a - b
 }
-func main() {}
